@@ -38,6 +38,8 @@
 		FAAA339328C1F0DA001ABFFD /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAA339228C1F0DA001ABFFD /* AnimalDetailView.swift */; };
 		FAAA339528C1F5A9001ABFFD /* HeadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAA339428C1F5A9001ABFFD /* HeadingView.swift */; };
 		FAAA339728C1F7D9001ABFFD /* InsetGalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAAA339628C1F7D9001ABFFD /* InsetGalleryView.swift */; };
+		FAB13DB528CE3A1D0078F7F7 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB13DB428CE3A1D0078F7F7 /* LocationModel.swift */; };
+		FAB13DB728CE41240078F7F7 /* MapAnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB13DB628CE41240078F7F7 /* MapAnotationView.swift */; };
 		FAB47BEB28C2DD0400F1B221 /* InsetMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB47BEA28C2DD0400F1B221 /* InsetMapView.swift */; };
 		FAB47BED28C2E25300F1B221 /* ExternalWeblinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB47BEC28C2E25300F1B221 /* ExternalWeblinkView.swift */; };
 		FAC1409B28C2F87F00715D16 /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC1409A28C2F87F00715D16 /* VideoModel.swift */; };
@@ -80,6 +82,8 @@
 		FAAA339228C1F0DA001ABFFD /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 		FAAA339428C1F5A9001ABFFD /* HeadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadingView.swift; sourceTree = "<group>"; };
 		FAAA339628C1F7D9001ABFFD /* InsetGalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetGalleryView.swift; sourceTree = "<group>"; };
+		FAB13DB428CE3A1D0078F7F7 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		FAB13DB628CE41240078F7F7 /* MapAnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnotationView.swift; sourceTree = "<group>"; };
 		FAB47BEA28C2DD0400F1B221 /* InsetMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetMapView.swift; sourceTree = "<group>"; };
 		FAB47BEC28C2E25300F1B221 /* ExternalWeblinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExternalWeblinkView.swift; sourceTree = "<group>"; };
 		FAC1409A28C2F87F00715D16 /* VideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
@@ -194,6 +198,7 @@
 				FAB47BEC28C2E25300F1B221 /* ExternalWeblinkView.swift */,
 				FAC1409C28C2F8F900715D16 /* VideoListItemView.swift */,
 				FAC1409E28C2FFEA00715D16 /* VideoPlayerView.swift */,
+				FAB13DB628CE41240078F7F7 /* MapAnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -204,6 +209,7 @@
 				FAAA338928C1DC76001ABFFD /* CoverImageModel.swift */,
 				FAAA339028C1E8BF001ABFFD /* AnimalModel.swift */,
 				FAC1409A28C2F87F00715D16 /* VideoModel.swift */,
+				FAB13DB428CE3A1D0078F7F7 /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -313,6 +319,7 @@
 				FA8B3FC228C10784006B8B11 /* VideoListView.swift in Sources */,
 				FAAA338F28C1E678001ABFFD /* AnimalListItemView.swift in Sources */,
 				FA8B3FC728C107D2006B8B11 /* GalleryView.swift in Sources */,
+				FAB13DB728CE41240078F7F7 /* MapAnotationView.swift in Sources */,
 				FA044F9B28C235F200289827 /* InsetFactView.swift in Sources */,
 				FAAA338728C1DA57001ABFFD /* CoverImageView.swift in Sources */,
 				FAAA338A28C1DC76001ABFFD /* CoverImageModel.swift in Sources */,
@@ -324,6 +331,7 @@
 				FA8B3FC528C107B1006B8B11 /* MainView.swift in Sources */,
 				FAC140A228C300CB00715D16 /* VideoPlayerHelper.swift in Sources */,
 				FAC1409B28C2F87F00715D16 /* VideoModel.swift in Sources */,
+				FAB13DB528CE3A1D0078F7F7 /* LocationModel.swift in Sources */,
 				FA8B3F9228C0F9A2006B8B11 /* AfricaApp.swift in Sources */,
 				FAAA339728C1F7D9001ABFFD /* InsetGalleryView.swift in Sources */,
 				FAAA338D28C1DE0F001ABFFD /* CodableBundleExtension.swift in Sources */,
