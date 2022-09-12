@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FA044F9B28C235F200289827 /* InsetFactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA044F9A28C235F200289827 /* InsetFactView.swift */; };
+		FA33F21828CF844000FF8CAE /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA33F21728CF844000FF8CAE /* MotionAnimationView.swift */; };
 		FA8B3F9228C0F9A2006B8B11 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8B3F9128C0F9A2006B8B11 /* AfricaApp.swift */; };
 		FA8B3F9428C0F9A2006B8B11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8B3F9328C0F9A2006B8B11 /* ContentView.swift */; };
 		FA8B3F9628C0F9A3006B8B11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8B3F9528C0F9A3006B8B11 /* Assets.xcassets */; };
@@ -50,6 +51,7 @@
 
 /* Begin PBXFileReference section */
 		FA044F9A28C235F200289827 /* InsetFactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetFactView.swift; sourceTree = "<group>"; };
+		FA33F21728CF844000FF8CAE /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		FA8B3F8E28C0F9A2006B8B11 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA8B3F9128C0F9A2006B8B11 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		FA8B3F9328C0F9A2006B8B11 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				FAC1409C28C2F8F900715D16 /* VideoListItemView.swift */,
 				FAC1409E28C2FFEA00715D16 /* VideoPlayerView.swift */,
 				FAB13DB628CE41240078F7F7 /* MapAnotationView.swift */,
+				FA33F21728CF844000FF8CAE /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				FA8B3F9228C0F9A2006B8B11 /* AfricaApp.swift in Sources */,
 				FAAA339728C1F7D9001ABFFD /* InsetGalleryView.swift in Sources */,
 				FAAA338D28C1DE0F001ABFFD /* CodableBundleExtension.swift in Sources */,
+				FA33F21828CF844000FF8CAE /* MotionAnimationView.swift in Sources */,
 				FAAA339528C1F5A9001ABFFD /* HeadingView.swift in Sources */,
 				FAC1409F28C2FFEA00715D16 /* VideoPlayerView.swift in Sources */,
 			);
