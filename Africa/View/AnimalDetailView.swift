@@ -48,7 +48,7 @@ struct AnimalDetailView: View {
 
                 //Fact
                 Group {
-                    HeadingView(headingImage: "questionmark.circle", headingText: "Do you kknow?")
+                    HeadingView(headingImage: "questionmark.circle", headingText: "Do you know?")
                     InsetFactView(animal: animal)
                 }
                 .padding(.horizontal)
